@@ -7,12 +7,7 @@
 ## 🚀 Visão Geral
 
 O **JK Project** é um ecossistema completo criado para consolidar e expandir minha base de conhecimento em desenvolvimento web.  
-O módulo **`jk-front`** é responsável pela **interface do sistema financeiro**, permitindo que o usuário:
-
-- Gerencie contas e transações;
-- Visualize relatórios e gráficos interativos;
-- Conecte-se ao assistente financeiro Stuart (IA);
-- Automatize fluxos via n8n (importação, alertas, relatórios).
+O módulo **`jk-front`** é responsável pela **interface do sistema financeiro**.
 
 ---
 
