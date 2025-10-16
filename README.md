@@ -1,5 +1,5 @@
 # JK Project - Front-end
-> “50 anos em 5 sprints”.  
+> “50 anos em 5”.  
 > Sistema financeiro pessoal com integração de IA (Stuart) — parte do **JK Project**, uma iniciativa de desenvolvimento full stack com React, Java Spring Boot, MySQL e n8n inspirada na estratégia de Juscelino Kubitschek.
 
 ---
